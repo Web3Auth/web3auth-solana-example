@@ -17,8 +17,9 @@ function App() {
           clientId: "localhost-id" ,// get your clientId from https://developer.web3auth.io
           authMode: "DAPP"
         })
-        // configure for web3auth torus solana wallet
-        web3auth.configureAdapter(adapter)
+
+        // configure for web3auth torus solana wallet for custom chain
+        // web3auth.configureAdapter(adapter)
 
         // subscribe for web3auth event
         subscribeAuthEvents(web3auth);
