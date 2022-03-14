@@ -76,7 +76,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://web3auth.io/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -85,7 +85,7 @@ function App() {
           {' | '}
           <a
             className="App-link"
-            href="https://vitejs.dev/guide/features.html"
+            href="https://docs.web3auth.io/"
             target="_blank"
             rel="noopener noreferrer"
           >
