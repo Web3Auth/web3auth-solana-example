@@ -71,9 +71,7 @@ function App() {
               signMessage
             </button>
           </div>
-          <button type="button" onClick={connect}>
-            connect
-          </button>
+
         </div>
         <p>
           <a
